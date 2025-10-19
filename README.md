@@ -36,12 +36,18 @@ Inverting amplifier:
 7. Plot the graph of the input wave versus output wave for any one practical case.
 
 ## MODEL GRAPH:
-<img width="368" height="284" alt="image" src="https://github.com/user-attachments/assets/d2081f1e-57d1-4cd0-b59a-5ebb4115733d" />
+![WhatsApp Image 2025-10-19 at 20 54 42_549c295b](https://github.com/user-attachments/assets/2ce25b56-d663-480b-9772-308d6b99d864)
+
+## CALCULATION:
+![WhatsApp Image 2025-10-19 at 20 45 33_f071b12d](https://github.com/user-attachments/assets/2762bc3d-a738-4060-8e55-e1baa6b497a4)
 
 ## TABULATION:
-
+![WhatsApp Image 2025-10-19 at 20 45 33_61e86221](https://github.com/user-attachments/assets/88900a62-e9ff-47d4-ab9d-a4097750d2a7)
 
 ## GRAPH:
+![WhatsApp Image 2025-10-19 at 20 45 34_b88212f8](https://github.com/user-attachments/assets/aa4ffcb6-d349-46b6-a93a-e67f365720d7)
+
 
 
 ## RESULT:
+Thus, the inverting amplifier is designed and their performance was successfully tested using Op-Amp IC741
